@@ -57,3 +57,5 @@ google_analytics: G-NM7BBPXNSQ
 #   - vendor/ruby/
 
 theme: jekyll-theme-minimal
+
+media-path: /assets/img
