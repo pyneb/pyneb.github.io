@@ -13,3 +13,8 @@ layout: default
 <video muted autoplay controls>
     <source src="{{ site.media-path }}/multi-modal.mp4" type="video/mp4">
 </video>
+
+### Asymmetric Camel-Back Example
+<video muted autoplay controls>
+    <source src="{{ site.media-path }}/asymm-camelback.mp4" type="video/mp4">
+</video>
