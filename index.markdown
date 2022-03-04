@@ -5,6 +5,8 @@
 layout: default
 ---
 
+![pyneb logo](/assets/img/pyneb.png)
+
 # Welcome to the `pyneb` Homepage
 
 ## Supplemental Videos
