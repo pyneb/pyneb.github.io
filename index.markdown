@@ -9,6 +9,11 @@ layout: default
 
 # Welcome to the `pyneb` Homepage
 
+This is the documentation page for the PyNEB nudged elastic band package, the associated publication of which can be found at the following link:
+
+[https://arxiv.org/abs/2203.01975](https://arxiv.org/abs/2203.01975)
+
+
 ## Supplemental Videos
 
 ### Multi-modal Fission Example
